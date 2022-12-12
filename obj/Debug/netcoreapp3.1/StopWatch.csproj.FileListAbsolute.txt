@@ -1,0 +1,14 @@
+E:\dev\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.exe
+E:\dev\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.deps.json
+E:\dev\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.json
+E:\dev\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.dev.json
+E:\dev\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.dll
+E:\dev\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.pdb
+E:\dev\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csproj.AssemblyReference.cache
+E:\dev\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfoInputs.cache
+E:\dev\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfo.cs
+E:\dev\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csproj.CoreCompileInputs.cache
+E:\dev\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.dll
+E:\dev\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.pdb
+E:\dev\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.genruntimeconfig.cache
